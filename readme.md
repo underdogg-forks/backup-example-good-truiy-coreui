@@ -18,6 +18,8 @@ Isso fará com que os assets em `resources/assets` compilem e sejam copiados par
 
 ## Informações Úteis
 
+Você pode acessar o exemplo do Core.ui (full) no seu endereço `/core.ui` ex.: [http://localhost/core.ui](http://localhost/core.ui), não esqueça de remover ao enviar para produção!
+
 Usuários de teste:
 
 customer@test.com / secret
