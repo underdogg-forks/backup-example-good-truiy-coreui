@@ -2,21 +2,5 @@
     "/assets/app/app.js": "/assets/app/app.js",
     "/assets/app/app.css": "/assets/app/app.css",
     "/assets/admin/style.css": "/assets/admin/style.css",
-    "/assets/admin/app.js": "/assets/admin/app.js",
-    "/assets/fonts/fontawesome-webfont.eot": "/assets/fonts/fontawesome-webfont.eot",
-    "/assets/fonts/fontawesome-webfont.svg": "/assets/fonts/fontawesome-webfont.svg",
-    "/assets/fonts/fontawesome-webfont.ttf": "/assets/fonts/fontawesome-webfont.ttf",
-    "/assets/fonts/fontawesome-webfont.woff": "/assets/fonts/fontawesome-webfont.woff",
-    "/assets/fonts/fontawesome-webfont.woff2": "/assets/fonts/fontawesome-webfont.woff2",
-    "/assets/fonts/FontAwesome.otf": "/assets/fonts/FontAwesome.otf",
-    "/assets/fonts/Simple-Line-Icons.eot": "/assets/fonts/Simple-Line-Icons.eot",
-    "/assets/fonts/Simple-Line-Icons.svg": "/assets/fonts/Simple-Line-Icons.svg",
-    "/assets/fonts/Simple-Line-Icons.ttf": "/assets/fonts/Simple-Line-Icons.ttf",
-    "/assets/fonts/Simple-Line-Icons.woff": "/assets/fonts/Simple-Line-Icons.woff",
-    "/assets/fonts/Simple-Line-Icons.woff2": "/assets/fonts/Simple-Line-Icons.woff2",
-    "/assets/css/font-awesome.min.css": "/assets/css/font-awesome.min.css",
-    "/assets/css/font-awesome.css": "/assets/css/font-awesome.css",
-    "/assets/css/font-awesome.css.map": "/assets/css/font-awesome.css.map",
-    "/assets/css/simple-line-icons.css": "/assets/css/simple-line-icons.css",
-    "/assets/admin/components.js": "/assets/admin/components.js"
+    "/assets/admin/app.js": "/assets/admin/app.js"
 }

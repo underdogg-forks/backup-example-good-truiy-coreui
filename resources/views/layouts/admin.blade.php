@@ -14,11 +14,11 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Icons -->
-    <link href="{{ mix('assets/css/font-awesome.min.css') }}" rel="stylesheet">
-    <link href="{{ mix('assets/css/simple-line-icons.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/font-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/simple-line-icons.css') }}" rel="stylesheet">
 
     <!-- Main styles for this application -->
-    <link href="{{ mix('assets/admin/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/admin/style.css') }}" rel="stylesheet">
 </head>
 
 <body class="app header-fixed sidebar-fixed aside-menu-fixed aside-menu-hidden">
@@ -79,8 +79,8 @@
         </span>
     </footer>
 
-    <script src="{{ mix('assets/admin/components.js') }}"></script>
-    <script src="{{ mix('assets/admin/app.js') }}"></script>
+    <script src="{{ asset('assets/admin/components.js') }}"></script>
+    <script src="{{ asset('assets/admin/app.js') }}"></script>
 
 </body>
 

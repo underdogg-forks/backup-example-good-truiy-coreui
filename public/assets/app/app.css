@@ -349,7 +349,7 @@ html {
 
 html {
   -ms-overflow-style: scrollbar;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 body {
@@ -2761,6 +2761,11 @@ pre code {
 }
 
 .form-control:-ms-input-placeholder {
+  color: #636c72;
+  opacity: 1;
+}
+
+.form-control::-ms-input-placeholder {
   color: #636c72;
   opacity: 1;
 }
